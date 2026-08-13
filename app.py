@@ -293,7 +293,7 @@ st.sidebar.header("Choose the filter option:")
 # ⚠️ Pipeline Disclaimer Notice Box
 st.sidebar.warning(
     "⚠️ **Notice:** This filter section is currently in the pipeline. "
-    "It will be fully operational in the near future."
+    "It will be fully operational in near future."
 )
 
 # 🗑️ Clear All Filters Button
